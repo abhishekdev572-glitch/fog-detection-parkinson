@@ -9,7 +9,7 @@
 [![TensorFlow Lite](https://img.shields.io/badge/TFLite-2.14.0-orange?logo=tensorflow)](https://www.tensorflow.org/lite)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://www.python.org/)
 [![Arduino](https://img.shields.io/badge/Arduino-nRF52840-teal?logo=arduino)](https://www.arduino.cc/)
-[![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/fog-detection-system?style=social)](https://github.com/abhishekdev572-glitch/fog-detection-parkinson/blob/main/)
+[![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/fog-detection-system?style=social)](https://github.com/abhishekdev572-glitch/fog-detection-parkinson)
 
 <br/>
 
