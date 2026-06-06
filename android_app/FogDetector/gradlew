@@ -1,0 +1,4 @@
+#!/bin/sh
+# Gradle start-up script for POSIX systems
+SCRIPT_DIR=$(dirname "$(readlink -f "$0" 2>/dev/null || echo "$0")")
+exec "$SCRIPT_DIR/gradle/wrapper/gradle-wrapper" "$@"

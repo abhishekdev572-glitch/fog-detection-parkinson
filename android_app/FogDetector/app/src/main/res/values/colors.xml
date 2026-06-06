@@ -1,0 +1,20 @@
+<resources>
+    <!-- Brand -->
+    <color name="primary">#1565C0</color>
+    <color name="primary_dark">#0D47A1</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white_70">#B3FFFFFF</color>
+    <color name="white_30">#4DFFFFFF</color>
+    <color name="background">#F5F7FA</color>
+
+    <!-- Status -->
+    <color name="fog_red">#C62828</color>
+    <color name="fog_green">#2E7D32</color>
+    <color name="connected_green">#388E3C</color>
+    <color name="connecting_amber">#F57C00</color>
+    <color name="disconnected_red">#D32F2F</color>
+
+    <!-- Text -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+</resources>
